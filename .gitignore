@@ -33,3 +33,6 @@ out
 
 # gradle-wrapper jar should be included
 !/gradle/wrapper/gradle-wrapper.jar
+
+# jEnv 
+.java-version

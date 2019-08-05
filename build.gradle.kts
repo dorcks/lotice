@@ -48,6 +48,7 @@ tasks.withType<RatTask> {
     excludes.addAll(
             "README.md",
             "**/*.iml", "*.idea/**", "**/out**", // IDEA directories/files
-            "gradle/wrapper/**", "gradlew*", "**/build/**" // Gradle directories/files
+            "gradle/wrapper/**", "gradlew*", "**/build/**", // Gradle directories/files
+            ".java-version" // jEnv iles 
             )
 }
