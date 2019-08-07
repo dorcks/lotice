@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/dorcks/lotice/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/dorcks/lotice/blob/master/LICENSE) [![Build Status](https://travis-ci.org/dorcks/lotice.svg?branch=master)](https://travis-ci.org/dorcks/lotice)
 
 # lotice
 Automated License and Notice Utility
